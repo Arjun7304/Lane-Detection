@@ -34,4 +34,3 @@ NumPy
 Tkinter
 Pillow (PIL)
 
-📦 Installation
